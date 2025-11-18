@@ -1,0 +1,8 @@
+Title:ms.
+Full Name:soumya
+USN:1WT24CS028
+Semester:Third
+Section:A
+Branch:Computer Science Engineering
+Year of Admission:2024
+College Name:GITW
