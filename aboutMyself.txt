@@ -6,4 +6,10 @@ Section:A
 Branch:Computer Science Engineering
 Year of Admission:2024
 College Name:GITW
+<<<<<<< HEAD
 
+=======
+SSLC:Excellent School
+PUC:Excellent College
+UG Degree:Computer Science Engineering
+>>>>>>> b51e19a (Updated the contents of aboutMyself.txt file successful)
