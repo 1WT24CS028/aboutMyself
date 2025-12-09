@@ -8,6 +8,7 @@ Year of Admission:2024
 College Name:GITW
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 SSLC:Excellent School
@@ -17,3 +18,8 @@ UG Degree:Computer Science Engineering
 =======
 
 >>>>>>> bbbbedf (Added aboutMyself.txt file successfully)
+=======
+SSLC:Excellent School
+PUC:Excellent College
+UG Degree:Computer Science Engineering
+>>>>>>> b51e19a (Updated the contents of aboutMyself.txt file successful)
