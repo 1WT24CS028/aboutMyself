@@ -9,6 +9,7 @@ College Name:GITW
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 SSLC:Excellent School
@@ -23,3 +24,6 @@ SSLC:Excellent School
 PUC:Excellent College
 UG Degree:Computer Science Engineering
 >>>>>>> b51e19a (Updated the contents of aboutMyself.txt file successful)
+=======
+
+>>>>>>> bbbbedf (Added aboutMyself.txt file successfully)
